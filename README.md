@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋, I'm Bilal Khalil Khankhail
 
 - 🔭 I’m currently working on [My Portfolio](bilalmkhalil.github.io)
 - 🌱 I’m currently learning Data Science
@@ -7,3 +7,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I don't have any
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalmkhalil)](https://github.com/anuraghazra/github-readme-stats)
+
