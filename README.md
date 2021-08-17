@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I don't have any
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalmkhalil)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalmkhalil)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmkhalil&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmkhalil&layout=compact)
 
